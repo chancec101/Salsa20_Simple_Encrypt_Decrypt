@@ -32,3 +32,4 @@ print("Ciphertext: " + hex_ciphertext)
 print("Key: " + str(hex_secretKey))
 print("Nonce: " + str(hex_nonce))
 print("Plaintext: " + str(plaintext))
+
