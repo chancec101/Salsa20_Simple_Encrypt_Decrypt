@@ -41,3 +41,4 @@ print("Ciphertext: " + str(hex_cipherText))
 f = open("ciphertext.txt", "a")
 f.write(str(hex_cipherText))
 f.close()
+
